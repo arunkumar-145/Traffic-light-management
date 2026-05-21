@@ -1,0 +1,9 @@
+Vivado Simulator 2018.3
+Time resolution is 1 ps
+Time=0 | R=1 Y=0 G=0 | rst=1
+Time=20000 | R=1 Y=0 G=0 | rst=0
+Time=125000 | R=0 Y=0 G=1 | rst=0
+Time=220000 | R=1 Y=0 G=0 | rst=1
+Time=240000 | R=1 Y=0 G=0 | rst=0
+Time=345000 | R=0 Y=0 G=1 | rst=0
+$finish called at time : 440 ns : File "D:/Traffic light management/tb_traffic_light.v" Line 38
