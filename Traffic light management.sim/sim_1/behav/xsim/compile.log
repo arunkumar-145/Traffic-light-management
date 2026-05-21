@@ -1,4 +1,0 @@
-INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Traffic light management/traffic_light.v" into library xil_defaultlib
-INFO: [VRFC 10-311] analyzing module traffic_light
-INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Traffic light management/tb_traffic_light.v" into library xil_defaultlib
-INFO: [VRFC 10-311] analyzing module tb_traffic_light
