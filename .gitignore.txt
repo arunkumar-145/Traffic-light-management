@@ -1,0 +1,10 @@
+*.cache/
+*.hw/
+*.sim/
+*.runs/
+*.ip_user_files/
+*.log
+*.jou
+*.str
+*.backup
+*.tmp
